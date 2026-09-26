@@ -1,1 +1,336 @@
-[{"badge":"Best value","category":"Bundles","compatibility":["Premiere Pro","After Effects","CapCut","DaVinci Resolve","VN"],"cover":"img/everything-bundle.jpg","description":"Every Gamerod pack in one download: all transitions, LUTs, overlays, caption styles, SFX and templates — plus every future pack we release, free forever. Buying separately would cost $237.","featured":true,"icon":"📦","id":"everything-bundle","includes":["All 14 individual packs (full contents)","Every future Gamerod pack — free forever","Priority email support","Commercial license for everything"],"license":"Commercial license included","oldPrice":237,"price":59,"short":"Everything Bundle","tagline":"All 14 packs + every future release. One payment, yours forever."},{"category":"Transitions & Effects","compatibility":["Premiere Pro","After Effects","CapCut","DaVinci Resolve"],"cover":"img/viral-transitions.jpg","description":"100 hand-tuned transitions built for the 9:16 feed: seamless whip pans, glitch cuts, zoom punches, spin blurs and smooth morphs. Drag, drop, done — each preset is keyframe-optimized so it never looks cheap.","featured":true,"icon":"🔀","id":"viral-transitions","includes":["100 transition presets (4K + 1080p)","Premiere Pro + After Effects versions","CapCut-ready overlay versions","PDF quick-start guide"],"license":"Commercial license included","price":15,"short":"Viral Transitions","tagline":"100 scroll-stopping transitions for Reels, TikTok & Shorts."},{"category":"LUTs & Color","compatibility":["Premiere Pro","DaVinci Resolve","Final Cut Pro","CapCut","VN","Lightroom"],"cover":"img/cinematic-luts.jpg","description":"50 cinematic .cube LUTs tuned on real phone footage — teal-orange blockbusters, warm travel tones, moody night grades and clean daylight looks. One click, zero banding, skin tones protected.","featured":true,"icon":"🎨","id":"cinematic-luts-mobile","includes":["50 .cube LUTs (Rec.709)","Mobile + desktop versions","Installation guides for 6 apps","Before/after preview sheet"],"license":"Commercial license included","price":15,"short":"Cinematic LUTs","tagline":"50 one-tap cinematic color grades for phone & desktop."},{"category":"Templates & Captions","compatibility":["Premiere Pro","After Effects","CapCut"],"cover":"img/real-estate-pack.jpg","description":"The first editing pack built specifically for property videos: cinematic tour transitions, animated price tags, lower-thirds for room names, map-pin callouts and a full outro template. Made from real agency shoots.","featured":true,"icon":"🏠","id":"real-estate-video-pack","includes":["35 real-estate transitions","20 animated lower-thirds & price tags","10 map-pin & feature callouts","Full 30s listing outro template"],"license":"Commercial license included","price":29,"short":"Real Estate Pack","tagline":"Tour transitions, price tags & lower-thirds for property videos."},{"category":"Transitions & Effects","compatibility":["Any editor (MP4/MOV overlays)"],"cover":"img/ai-broll.jpg","description":"50 AI-generated cinematic B-roll overlays: aerial cityscapes, luxury interiors, ocean waves, night traffic, abstract textures. Royalty-free, 4K, with commercial license — filler footage that doesn't look like filler.","featured":true,"icon":"🌌","id":"ai-cinematic-broll","includes":["50 4K overlay clips (MP4)","Organized by mood: urban, nature, luxury, abstract","Commercial license included","Lifetime updates as the library grows"],"license":"Commercial license included","price":24,"short":"AI B-Roll Pack","tagline":"50 cinematic AI B-roll overlays, 4K, royalty-free."},{"category":"Templates & Captions","compatibility":["Premiere Pro","After Effects","CapCut"],"cover":"img/caption-styles.jpg","description":"40 animated caption presets including proper Arabic RTL animations — a category almost nobody sells. Word-by-word pop, karaoke highlight, kinetic bounce and clean minimal styles, all auto-timed.","featured":true,"icon":"💬","id":"animated-caption-styles","includes":["40 caption animation presets","Arabic RTL + Latin versions","Auto-timing templates","Font pairing guide (free fonts)"],"license":"Commercial license included","price":12,"short":"Caption Styles","tagline":"40 animated caption presets — incl. Arabic RTL."},{"category":"Transitions & Effects","compatibility":["Premiere Pro","After Effects","CapCut"],"cover":"img/pov-bundle.jpg","description":"The exact editing recipe behind viral POV reels: velocity ramps, camera-shake presets, zoom-punch combos and speed-ramp templates. Built from real POV footage, tuned frame by frame.","featured":true,"icon":"🏍️","id":"pov-reel-bundle","includes":["25 velocity & shake presets","15 zoom-punch combos","10 speed-ramp templates","POV editing workflow PDF"],"license":"Commercial license included","price":17,"short":"POV Reel Bundle","tagline":"Velocity, shake & zoom presets for viral POV edits."},{"category":"Bundles","compatibility":["Premiere Pro","DaVinci Resolve","CapCut"],"cover":"img/wedding-bundle.jpg","description":"A complete wedding & event color + transition system: 30 romantic LUTs, 25 elegant transitions and 10 light-leak overlays. Consistent, timeless grades that work on any camera.","featured":true,"icon":"💒","id":"wedding-event-bundle","includes":["30 wedding LUTs (.cube)","25 elegant transitions","10 light-leak overlays","Skin-tone protection guide"],"license":"Commercial license included","price":29,"short":"Wedding Bundle","tagline":"LUTs + transitions system for weddings & events."},{"category":"Audio & SFX","compatibility":["Any editor (WAV/MP3)"],"cover":"","description":"200 royalty-free sound effects engineered for short-form: deep whooshes, risers, UI clicks, bass drops and cinematic hits. Normalized, tagged and ready to drag into any timeline.","icon":"🔊","id":"sfx-pack-200","includes":["200 SFX (WAV + MP3)","Tagged & organized by type","Royalty-free commercial license"],"license":"Commercial license included","price":12,"short":"SFX Pack","tagline":"200 whooshes, risers & UI sounds for short-form."},{"category":"Transitions & Effects","compatibility":["Premiere Pro","After Effects","CapCut"],"cover":"","description":"High-energy edit presets for moto and car content: velocity shakes, exhaust-synced cuts, speed lines and RPM-style zoom bursts. Built from real night-ride footage.","icon":"🏁","id":"moto-car-pack","includes":["20 velocity shake presets","15 speed-line overlays","10 exhaust-synced cut templates"],"license":"Commercial license included","price":15,"short":"Moto & Car Pack","tagline":"Velocity & shake presets for moto/car edits."},{"category":"LUTs & Color","compatibility":["Premiere Pro","DaVinci Resolve","CapCut","Lightroom"],"cover":"","description":"12 LUTs engineered for before/after property reveals: the 'after' pops with clean whites and rich contrast while the 'before' stays honest. The secret weapon of renovation content.","icon":"🔁","id":"before-after-luts","includes":["12 before/after LUT pairs (.cube)","Renovation reveal guide","Mobile + desktop versions"],"license":"Commercial license included","price":19,"short":"Before/After LUTs","tagline":"Reveal-grade LUTs for renovation content."},{"category":"Transitions & Effects","compatibility":["Any editor (MP4/MOV overlays)"],"cover":"","description":"35mm film grain scans and 20 organic light leaks, captured from real film — not digital noise. Instant texture and warmth for any footage, 4K.","icon":"✨","id":"grain-leaks-pack","includes":["15 film grain overlays (4K)","20 light leaks (4K MOV)","Grain intensity guide"],"license":"Commercial license included","price":14,"short":"Grain + Leaks","tagline":"Real 35mm grain & light leaks, 4K overlays."},{"category":"Templates & Captions","compatibility":["CapCut","VN"],"cover":"","description":"50 trending template codes refreshed monthly: viral reel structures, beat-sync edits and text animations. Import with one tap — new drops every month, free forever.","icon":"📲","id":"template-codes-pack","includes":["50 template codes (CapCut + VN)","Monthly new drops — free forever","Trend alert notes each month"],"license":"Commercial license included","price":9,"short":"Template Codes","tagline":"50 trending CapCut/VN codes, refreshed monthly."},{"category":"Templates & Captions","compatibility":["Premiere Pro","After Effects","CapCut"],"cover":"","description":"15 animated intro/outro templates for YouTube Shorts: logo stings, subscribe animations, end-screen loops and channel branding kits. Make every short look like a channel, not a clip.","icon":"▶️","id":"shorts-intro-outro","includes":["15 intro/outro animations","Subscribe button animations","End-screen loop templates","Branding color guide"],"license":"Commercial license included","price":12,"short":"Shorts Intros","tagline":"15 intro/outro animations for YouTube Shorts."},{"category":"Transitions & Effects","compatibility":["Premiere Pro","After Effects","CapCut"],"cover":"","description":"Aggressive flash cuts, energy zooms and beat-synced transitions built for gym and fitness content. Every preset hits on the beat — just drop your clips in.","icon":"💪","id":"gym-fitness-pack","includes":["25 flash-cut transitions","15 energy zoom presets","Beat-sync editing guide"],"license":"Commercial license included","price":15,"short":"Gym Edit Pack","tagline":"Flash cuts & energy zooms for fitness content."}]
+[
+  {
+    "badge": "Best value",
+    "category": "Bundles",
+    "compatibility": [
+      "Premiere Pro",
+      "After Effects",
+      "CapCut",
+      "DaVinci Resolve",
+      "VN"
+    ],
+    "cover": "img/everything-bundle.jpg",
+    "description": "Every Gamerod pack in one download: all transitions, LUTs, overlays, caption styles, SFX and templates — plus every future pack we release, free forever. Buying separately would cost $237.",
+    "featured": true,
+    "icon": "📦",
+    "id": "everything-bundle",
+    "includes": [
+      "All 14 individual packs (full contents)",
+      "Every future Gamerod pack — free forever",
+      "Priority email support",
+      "Commercial license for everything"
+    ],
+    "license": "Commercial license included",
+    "oldPrice": 237,
+    "price": 59,
+    "short": "Everything Bundle",
+    "tagline": "All 14 packs + every future release. One payment, yours forever."
+  },
+  {
+    "category": "Transitions & Effects",
+    "compatibility": [
+      "Premiere Pro",
+      "After Effects",
+      "CapCut",
+      "DaVinci Resolve"
+    ],
+    "cover": "img/viral-transitions.jpg",
+    "description": "100 hand-tuned transitions built for the 9:16 feed: seamless whip pans, glitch cuts, zoom punches, spin blurs and smooth morphs. Drag, drop, done — each preset is keyframe-optimized so it never looks cheap.",
+    "featured": true,
+    "icon": "🔀",
+    "id": "viral-transitions",
+    "includes": [
+      "100 transition presets (4K + 1080p)",
+      "Premiere Pro + After Effects versions",
+      "CapCut-ready overlay versions",
+      "PDF quick-start guide"
+    ],
+    "license": "Commercial license included",
+    "price": 15,
+    "short": "Viral Transitions",
+    "tagline": "100 scroll-stopping transitions for Reels, TikTok & Shorts."
+  },
+  {
+    "category": "LUTs & Color",
+    "compatibility": [
+      "Premiere Pro",
+      "DaVinci Resolve",
+      "Final Cut Pro",
+      "CapCut",
+      "VN"
+    ],
+    "cover": "img/cinematic-luts.jpg",
+    "description": "50 cinematic .cube LUTs designed and tested on a color chart with skin-tone patches — teal-orange blockbusters, warm travel tones, moody night grades and clean daylight looks. One click, smooth gradients, skin tones protected.",
+    "featured": true,
+    "icon": "🎨",
+    "id": "cinematic-luts-mobile",
+    "includes": [
+      "50 .cube LUTs (Rec.709)",
+      "Works in mobile + desktop apps",
+      "Installation guides for 6 apps",
+      "Before/after preview sheet",
+      "Commercial license"
+    ],
+    "license": "Commercial license included",
+    "price": 15,
+    "short": "Cinematic LUTs",
+    "tagline": "50 one-tap cinematic color grades for phone & desktop."
+  },
+  {
+    "category": "Templates & Captions",
+    "compatibility": [
+      "Premiere Pro",
+      "After Effects",
+      "CapCut"
+    ],
+    "cover": "img/real-estate-pack.jpg",
+    "description": "The first editing pack built specifically for property videos: cinematic tour transitions, animated price tags, lower-thirds for room names, map-pin callouts and a full outro template. Made from real agency shoots.",
+    "featured": true,
+    "icon": "🏠",
+    "id": "real-estate-video-pack",
+    "includes": [
+      "35 real-estate transitions",
+      "20 animated lower-thirds & price tags",
+      "10 map-pin & feature callouts",
+      "Full 30s listing outro template"
+    ],
+    "license": "Commercial license included",
+    "price": 29,
+    "short": "Real Estate Pack",
+    "tagline": "Tour transitions, price tags & lower-thirds for property videos."
+  },
+  {
+    "category": "Transitions & Effects",
+    "compatibility": [
+      "Any editor (MP4/MOV overlays)"
+    ],
+    "cover": "img/ai-broll.jpg",
+    "description": "50 AI-generated cinematic B-roll overlays: aerial cityscapes, luxury interiors, ocean waves, night traffic, abstract textures. Royalty-free, 4K, with commercial license — filler footage that doesn't look like filler.",
+    "featured": true,
+    "icon": "🌌",
+    "id": "ai-cinematic-broll",
+    "includes": [
+      "50 4K overlay clips (MP4)",
+      "Organized by mood: urban, nature, luxury, abstract",
+      "Commercial license included",
+      "Lifetime updates as the library grows"
+    ],
+    "license": "Commercial license included",
+    "price": 24,
+    "short": "AI B-Roll Pack",
+    "tagline": "50 cinematic AI B-roll overlays, 4K, royalty-free."
+  },
+  {
+    "category": "Templates & Captions",
+    "compatibility": [
+      "Premiere Pro",
+      "After Effects",
+      "CapCut"
+    ],
+    "cover": "img/caption-styles.jpg",
+    "description": "40 animated caption presets including proper Arabic RTL animations — a category almost nobody sells. Word-by-word pop, karaoke highlight, kinetic bounce and clean minimal styles, all auto-timed.",
+    "featured": true,
+    "icon": "💬",
+    "id": "animated-caption-styles",
+    "includes": [
+      "40 caption animation presets",
+      "Arabic RTL + Latin versions",
+      "Auto-timing templates",
+      "Font pairing guide (free fonts)"
+    ],
+    "license": "Commercial license included",
+    "price": 12,
+    "short": "Caption Styles",
+    "tagline": "40 animated caption presets — incl. Arabic RTL."
+  },
+  {
+    "category": "Transitions & Effects",
+    "compatibility": [
+      "Premiere Pro",
+      "After Effects",
+      "CapCut"
+    ],
+    "cover": "img/pov-bundle.jpg",
+    "description": "The exact editing recipe behind viral POV reels: velocity ramps, camera-shake presets, zoom-punch combos and speed-ramp templates. Built from real POV footage, tuned frame by frame.",
+    "featured": true,
+    "icon": "🏍️",
+    "id": "pov-reel-bundle",
+    "includes": [
+      "25 velocity & shake presets",
+      "15 zoom-punch combos",
+      "10 speed-ramp templates",
+      "POV editing workflow PDF"
+    ],
+    "license": "Commercial license included",
+    "price": 17,
+    "short": "POV Reel Bundle",
+    "tagline": "Velocity, shake & zoom presets for viral POV edits."
+  },
+  {
+    "category": "Bundles",
+    "compatibility": [
+      "Premiere Pro",
+      "DaVinci Resolve",
+      "CapCut"
+    ],
+    "cover": "img/wedding-bundle.jpg",
+    "description": "A complete wedding & event color + transition system: 30 romantic LUTs, 25 elegant transitions and 10 light-leak overlays. Consistent, timeless grades that work on any camera.",
+    "featured": true,
+    "icon": "💒",
+    "id": "wedding-event-bundle",
+    "includes": [
+      "30 wedding LUTs (.cube)",
+      "25 elegant transitions",
+      "10 light-leak overlays",
+      "Skin-tone protection guide"
+    ],
+    "license": "Commercial license included",
+    "price": 29,
+    "short": "Wedding Bundle",
+    "tagline": "LUTs + transitions system for weddings & events."
+  },
+  {
+    "category": "Audio & SFX",
+    "compatibility": [
+      "Any editor (WAV/MP3)"
+    ],
+    "cover": "",
+    "description": "200 royalty-free sound effects engineered for short-form: deep whooshes, risers, UI clicks, bass drops and cinematic hits. Normalized, tagged and ready to drag into any timeline.",
+    "icon": "🔊",
+    "id": "sfx-pack-200",
+    "includes": [
+      "200 SFX (WAV + MP3)",
+      "Tagged & organized by type",
+      "Royalty-free commercial license"
+    ],
+    "license": "Commercial license included",
+    "price": 12,
+    "short": "SFX Pack",
+    "tagline": "200 whooshes, risers & UI sounds for short-form."
+  },
+  {
+    "category": "Transitions & Effects",
+    "compatibility": [
+      "Premiere Pro",
+      "After Effects",
+      "CapCut"
+    ],
+    "cover": "",
+    "description": "High-energy edit presets for moto and car content: velocity shakes, exhaust-synced cuts, speed lines and RPM-style zoom bursts. Built from real night-ride footage.",
+    "icon": "🏁",
+    "id": "moto-car-pack",
+    "includes": [
+      "20 velocity shake presets",
+      "15 speed-line overlays",
+      "10 exhaust-synced cut templates"
+    ],
+    "license": "Commercial license included",
+    "price": 15,
+    "short": "Moto & Car Pack",
+    "tagline": "Velocity & shake presets for moto/car edits."
+  },
+  {
+    "category": "LUTs & Color",
+    "compatibility": [
+      "Premiere Pro",
+      "DaVinci Resolve",
+      "CapCut",
+      "Lightroom"
+    ],
+    "cover": "",
+    "description": "12 LUTs engineered for before/after property reveals: the 'after' pops with clean whites and rich contrast while the 'before' stays honest. The secret weapon of renovation content.",
+    "icon": "🔁",
+    "id": "before-after-luts",
+    "includes": [
+      "12 before/after LUT pairs (.cube)",
+      "Renovation reveal guide",
+      "Mobile + desktop versions"
+    ],
+    "license": "Commercial license included",
+    "price": 19,
+    "short": "Before/After LUTs",
+    "tagline": "Reveal-grade LUTs for renovation content."
+  },
+  {
+    "category": "Transitions & Effects",
+    "compatibility": [
+      "Any editor (MP4/MOV overlays)"
+    ],
+    "cover": "",
+    "description": "35mm film grain scans and 20 organic light leaks, captured from real film — not digital noise. Instant texture and warmth for any footage, 4K.",
+    "icon": "✨",
+    "id": "grain-leaks-pack",
+    "includes": [
+      "15 film grain overlays (4K)",
+      "20 light leaks (4K MOV)",
+      "Grain intensity guide"
+    ],
+    "license": "Commercial license included",
+    "price": 14,
+    "short": "Grain + Leaks",
+    "tagline": "Real 35mm grain & light leaks, 4K overlays."
+  },
+  {
+    "category": "Templates & Captions",
+    "compatibility": [
+      "CapCut",
+      "VN"
+    ],
+    "cover": "",
+    "description": "50 trending template codes refreshed monthly: viral reel structures, beat-sync edits and text animations. Import with one tap — new drops every month, free forever.",
+    "icon": "📲",
+    "id": "template-codes-pack",
+    "includes": [
+      "50 template codes (CapCut + VN)",
+      "Monthly new drops — free forever",
+      "Trend alert notes each month"
+    ],
+    "license": "Commercial license included",
+    "price": 9,
+    "short": "Template Codes",
+    "tagline": "50 trending CapCut/VN codes, refreshed monthly."
+  },
+  {
+    "category": "Templates & Captions",
+    "compatibility": [
+      "Premiere Pro",
+      "After Effects",
+      "CapCut"
+    ],
+    "cover": "",
+    "description": "15 animated intro/outro templates for YouTube Shorts: logo stings, subscribe animations, end-screen loops and channel branding kits. Make every short look like a channel, not a clip.",
+    "icon": "▶️",
+    "id": "shorts-intro-outro",
+    "includes": [
+      "15 intro/outro animations",
+      "Subscribe button animations",
+      "End-screen loop templates",
+      "Branding color guide"
+    ],
+    "license": "Commercial license included",
+    "price": 12,
+    "short": "Shorts Intros",
+    "tagline": "15 intro/outro animations for YouTube Shorts."
+  },
+  {
+    "category": "Transitions & Effects",
+    "compatibility": [
+      "Premiere Pro",
+      "After Effects",
+      "CapCut"
+    ],
+    "cover": "",
+    "description": "Aggressive flash cuts, energy zooms and beat-synced transitions built for gym and fitness content. Every preset hits on the beat — just drop your clips in.",
+    "icon": "💪",
+    "id": "gym-fitness-pack",
+    "includes": [
+      "25 flash-cut transitions",
+      "15 energy zoom presets",
+      "Beat-sync editing guide"
+    ],
+    "license": "Commercial license included",
+    "price": 15,
+    "short": "Gym Edit Pack",
+    "tagline": "Flash cuts & energy zooms for fitness content."
+  }
+]
