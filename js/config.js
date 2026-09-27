@@ -10,6 +10,8 @@ const STORE = {
   checkoutLinks: {
     // Product 1 — 50 Cinematic LUTs ($15) — live on Payhip since 2026-09-27
     "cinematic-luts-mobile": "https://payhip.com/b/LSaxk",
+    // Product 2 — Sony S-Log3 Cinematic Pack ($15) — live on Payhip since 2026-09-27
+    "sony-slog3-luts": "https://payhip.com/b/V50JF",
   },
   checkoutProvider: "payhip",
 };

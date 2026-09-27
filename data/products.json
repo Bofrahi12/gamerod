@@ -27,6 +27,33 @@
     "tagline": "All 14 packs + every future release. One payment, yours forever."
   },
   {
+    "id": "sony-slog3-luts",
+    "badge": "New",
+    "category": "LUTs & Color",
+    "compatibility": [
+      "Premiere Pro",
+      "DaVinci Resolve",
+      "Final Cut Pro",
+      "CapCut",
+      "VN"
+    ],
+    "cover": "img/sony-slog3-luts.jpg",
+    "description": "30 cinematic .cube LUTs built for Sony S-Log3 footage: 5 technical S-Log3/S-Gamut3 to Rec.709 conversions built from Sony's published S-Log3 specification and validated on reference test charts, plus 25 creative film looks (teal-orange, golden hour, moody noir, vintage film and more). Designed for footage shot in S-Log3 on Sony cameras.",
+    "featured": true,
+    "icon": "🎥",
+    "includes": [
+      "30 .cube LUTs (32x32x32 3D)",
+      "5 technical S-Log3 to Rec.709 conversions",
+      "25 creative film looks",
+      "Install guide + preview sheet",
+      "Commercial license"
+    ],
+    "license": "Commercial license included",
+    "price": 15,
+    "short": "S-Log3 Cinematic Pack",
+    "tagline": "30 one-tap grades for Sony S-Log3 footage."
+  },
+  {
     "category": "Transitions & Effects",
     "compatibility": [
       "Premiere Pro",
