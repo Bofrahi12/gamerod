@@ -27,6 +27,49 @@
     "tagline": "All 14 packs + every future release. One payment, yours forever."
   },
   {
+    "id": "wedding-luts-25",
+    "title": "25 Wedding & Romance LUTs",
+    "short": "Wedding LUTs",
+    "badge": "New",
+    "featured": true,
+    "category": "LUTs & Color",
+    "compatibility": ["Premiere Pro", "DaVinci Resolve", "Final Cut Pro", "CapCut", "VN"],
+    "cover": "img/wedding-luts-25.jpg",
+    "icon": "💒",
+    "description": "25 soft, romantic .cube LUTs built for wedding filmmakers: blush rose tints, golden-hour glow, airy bright whites and champagne highlights, all with skin-tone protection. Works in Premiere Pro, DaVinci Resolve, Final Cut Pro, CapCut and VN. Install guide included. Commercial license: use in unlimited client projects.",
+    "includes": [
+      "25 .cube LUTs (32x32x32 3D)",
+      "5 families: Blush, Golden Hour, Airy, Champagne, Editorial",
+      "Skin-tone protection",
+      "Install guide + preview sheet",
+      "Commercial license"
+    ],
+    "license": "Commercial license included",
+    "price": 15,
+    "tagline": "25 romantic one-tap grades for wedding films."
+  },
+  {
+    "id": "cinematic-sfx-30",
+    "title": "30 Cinematic SFX Pack",
+    "short": "Cinematic SFX",
+    "badge": "New",
+    "featured": true,
+    "category": "Audio & SFX",
+    "compatibility": ["Any editor (WAV)"],
+    "cover": "img/cinematic-sfx-30.jpg",
+    "icon": "🔊",
+    "description": "30 royalty-free cinematic sound effects: deep whooshes, risers, sub drops, impacts, sparkles and 3 seamless ambience loops. Real 44.1 kHz WAV files, normalized and ready to drop into Premiere Pro, DaVinci Resolve, CapCut or VN. Commercial license included.",
+    "includes": [
+      "30 WAV SFX (44.1 kHz)",
+      "Whooshes, risers, impacts, sub drops, sparkles",
+      "3 seamless ambience loops",
+      "Commercial license"
+    ],
+    "license": "Commercial license included",
+    "price": 12,
+    "tagline": "30 whooshes, risers & impacts for cinematic edits."
+  },
+  {
     "id": "sony-slog3-luts",
     "badge": "New",
     "category": "LUTs & Color",

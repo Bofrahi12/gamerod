@@ -15,7 +15,7 @@ function money(n) {
 function coverHTML(p) {
   const badge = p.badge ? `<span class="badge${p.badge === "Bundle" ? " bundle" : ""}">${p.badge}</span>` : "";
   const art = p.cover
-    ? `<img src="${p.cover}" alt="${esc(p.title)}" loading="lazy">`
+    ? `<img src="${p.cover}" alt="${esc(p.title || p.short)}" loading="lazy">`
     : `<div class="css-art" style="background:${p.artBg || "linear-gradient(135deg,#232c44,#141a29)"}">
          <div class="art-icon">${p.icon || "✦"}</div>
          <div class="art-title">${esc(p.short || p.title)}</div>
@@ -33,7 +33,7 @@ function cardHTML(p) {
     ${coverHTML(p)}
     <div class="card-body">
       <div class="card-cat">${esc(p.category)}</div>
-      <h3>${esc(p.title)}</h3>
+      <h3>${esc(p.title || p.short)}</h3>
       <p class="card-desc">${esc(p.tagline)}</p>
       <div class="card-meta">
         <span class="price">${old}${money(p.price)}</span>
@@ -80,12 +80,12 @@ async function renderProduct() {
   const list = await loadProducts();
   const p = list.find(x => x.id === id) || list[0];
   if (!p) return;
-  document.title = p.title + " — CineVault";
+  document.title = (p.title || p.short) + " — CineVault";
   document.getElementById("pd").innerHTML = `
     <div class="pd-gallery">${coverHTML(p)}</div>
     <div class="pd-info">
       <div class="card-cat">${esc(p.category)}</div>
-      <h1>${esc(p.title)}</h1>
+      <h1>${esc(p.title || p.short)}</h1>
       <p class="lede">${esc(p.tagline)}</p>
       <div class="buybox">
         <div class="row">
