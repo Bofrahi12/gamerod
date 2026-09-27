@@ -1,4 +1,4 @@
-/* GAMEROD storefront engine — renders catalog from data/products.json */
+/* CINEVAULT storefront engine — renders catalog from data/products.json */
 let PRODUCTS = [];
 
 async function loadProducts() {
@@ -80,7 +80,7 @@ async function renderProduct() {
   const list = await loadProducts();
   const p = list.find(x => x.id === id) || list[0];
   if (!p) return;
-  document.title = p.title + " — Gamerod";
+  document.title = p.title + " — CineVault";
   document.getElementById("pd").innerHTML = `
     <div class="pd-gallery">${coverHTML(p)}</div>
     <div class="pd-info">

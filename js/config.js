@@ -1,6 +1,6 @@
-/* GAMEROD store configuration — edit checkout links here once payment is connected */
+/* CINEVAULT store configuration — edit checkout links here once payment is connected */
 const STORE = {
-  name: "Gamerod",
+  name: "CineVault",
   tagline: "Digital products for creators",
   email: "support@gamerod.store",
   currency: "USD",
