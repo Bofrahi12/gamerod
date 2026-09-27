@@ -281,21 +281,28 @@
   {
     "category": "Transitions & Effects",
     "compatibility": [
-      "Any editor (MP4/MOV overlays)"
+      "CapCut",
+      "VN",
+      "Premiere Pro",
+      "DaVinci Resolve",
+      "Final Cut Pro"
     ],
-    "cover": "",
-    "description": "35mm film grain scans and 20 organic light leaks, captured from real film — not digital noise. Instant texture and warmth for any footage, 4K.",
+    "cover": "img/film-grain-light-leaks.jpg",
+    "description": "16 animated overlay loops for an authentic film look: 8 film grain overlays (Fine 35mm, Medium 35mm, Heavy 16mm, Extra Heavy, Chroma Noise, Dust Specks, Vertical Scratches, Flicker) and 8 light leaks (Amber Sweep, Cool Flare, Golden Corner, Magenta Bloom, Neon Drift, Rainbow Edge, Sunset Streak, Teal Wash). Vertical 1080x1920, 24fps, seamless 3-second loops, MP4 H.264. Drop on a track above your footage, set blend mode to Screen, dial opacity to taste.",
     "icon": "✨",
     "id": "grain-leaks-pack",
     "includes": [
-      "15 film grain overlays (4K)",
-      "20 light leaks (4K MOV)",
-      "Grain intensity guide"
+      "16 MP4 overlay loops (1080x1920, 24fps)",
+      "8 film grain + 8 light leaks",
+      "Blend-mode usage guide",
+      "Commercial license"
     ],
     "license": "Commercial license included",
     "price": 14,
     "short": "Grain + Leaks",
-    "tagline": "Real 35mm grain & light leaks, 4K overlays."
+    "tagline": "16 animated grain & light leak overlay loops.",
+    "badge": "New",
+    "featured": true
   },
   {
     "category": "Templates & Captions",
