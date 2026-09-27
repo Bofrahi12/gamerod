@@ -2,7 +2,6 @@
 const STORE = {
   name: "CineVault",
   tagline: "Digital products for creators",
-  email: "support@gamerod.store",
   currency: "USD",
   // Payment provider: "gumroad" | "payhip" | "stripe" | "custom"
   // Put each product's checkout URL here (Payhip/Gumroad product link or Stripe Payment Link).
@@ -18,6 +17,8 @@ const STORE = {
     "grain-leaks-pack": "https://payhip.com/b/OcJhe",
     // Product 4 — 50 Seamless Transitions ($16) — live on Payhip since 2026-09-27
     "viral-transitions": "https://payhip.com/b/DxKeM",
+    // Complete Bundle — all 6 packs ($87 value → $39) — live on Payhip since 2026-09-27
+    "cinevault-complete-bundle": "https://payhip.com/b/Ikv9o",
   },
   checkoutProvider: "payhip",
 };
