@@ -56,26 +56,28 @@
   {
     "category": "Transitions & Effects",
     "compatibility": [
-      "Premiere Pro",
-      "After Effects",
       "CapCut",
-      "DaVinci Resolve"
+      "VN",
+      "Premiere Pro",
+      "DaVinci Resolve",
+      "Final Cut Pro"
     ],
     "cover": "img/viral-transitions.jpg",
-    "description": "100 hand-tuned transitions built for the 9:16 feed: seamless whip pans, glitch cuts, zoom punches, spin blurs and smooth morphs. Drag, drop, done — each preset is keyframe-optimized so it never looks cheap.",
+    "description": "50 drag-and-drop transition clips built for vertical video: whip pans, zoom punches, RGB glitches, light sweeps and spin/shake impacts. Every clip is 1080x1920, 30fps, 1 second — and peaks at the middle (0.5s), so you center it on your cut and drop.",
     "featured": true,
     "icon": "🔀",
     "id": "viral-transitions",
     "includes": [
-      "100 transition presets (4K + 1080p)",
-      "Premiere Pro + After Effects versions",
-      "CapCut-ready overlay versions",
-      "PDF quick-start guide"
+      "50 transition clips (1080x1920, 30fps, MP4 H.264)",
+      "10 whip pans · 10 zoom punches · 10 glitches · 10 light sweeps · 10 spin/shake/impacts",
+      "Peak-at-middle timing for easy cut alignment",
+      "Contact-sheet preview of every transition",
+      "Quick-start guide + commercial license"
     ],
     "license": "Commercial license included",
-    "price": 15,
-    "short": "Viral Transitions",
-    "tagline": "100 scroll-stopping transitions for Reels, TikTok & Shorts."
+    "price": 16,
+    "short": "50 Seamless Transitions",
+    "tagline": "50 drag-and-drop transition clips for Reels, TikTok & Shorts."
   },
   {
     "category": "LUTs & Color",

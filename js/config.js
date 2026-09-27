@@ -14,6 +14,8 @@ const STORE = {
     "sony-slog3-luts": "https://payhip.com/b/V50JF",
     // Product 3 — Film Grain + Light Leaks ($14) — live on Payhip since 2026-09-27
     "grain-leaks-pack": "https://payhip.com/b/OcJhe",
+    // Product 4 — 50 Seamless Transitions ($16) — live on Payhip since 2026-09-27
+    "viral-transitions": "https://payhip.com/b/DxKeM",
   },
   checkoutProvider: "payhip",
 };
