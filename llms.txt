@@ -1,0 +1,28 @@
+# CineVault (Gamerod)
+
+> CineVault is a digital products store for video creators, published under the Gamerod brand. It sells hand-crafted video editing packs: cinematic LUTs, transitions, film grain and light-leak overlays, and cinematic sound effects. Products are one-time purchases with instant download, lifetime access, and a commercial license for client work.
+
+## Store
+
+- [Homepage](https://bofrahi12.github.io/gamerod/): Overview of the store and featured products.
+- [Catalog](https://bofrahi12.github.io/gamerod/catalog.html): Full product catalog with prices.
+- [FAQ](https://bofrahi12.github.io/gamerod/faq.html): Delivery, licensing and compatibility answers.
+- [About](https://bofrahi12.github.io/gamerod/about.html): About the store and its creator.
+- [Contact](https://bofrahi12.github.io/gamerod/contact.html): Contact page.
+- [Gumroad storefront](https://thecinevault.gumroad.com): Official checkout and delivery on Gumroad.
+
+## Products
+
+- CineVault Complete Bundle — $39 (Bundles): All CineVault editing packs in one bundle.
+- 50 Cinematic LUTs — $15 (LUTs & Color): 50 cinematic color-grading LUTs for video editors.
+- 30 Sony S-Log3 LUTs — $15 (LUTs & Color): 30 LUTs made for Sony S-Log3 footage.
+- 25 Wedding & Romance LUTs — $15 (LUTs & Color): 25 LUTs for wedding and romance videos.
+- 50 Transitions — $16 (Transitions & Effects): 50 drag-and-drop video transitions.
+- Film Grain + Light Leaks — $14 (Transitions & Effects): Film grain and light-leak overlays.
+- 30 Cinematic SFX Pack — $12 (Audio & SFX): 30 cinematic sound effects.
+
+## Policies
+
+- Delivery: instant digital download after purchase.
+- Access: buy once, lifetime access, no subscription.
+- License: commercial license included for client projects.
